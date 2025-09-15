@@ -8,6 +8,7 @@
 		"start": "wrangler dev"
 	},
 	"devDependencies": {
+		"tailwindcss": "^4.1.13",
 		"wrangler": "^4.37.0"
 	}
 }
